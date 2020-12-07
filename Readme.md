@@ -1,6 +1,6 @@
 /**
  * Name: Chris Saba
- * Professor: Gilbert Young
+ *
  * Date: 6/20/20
  *
  * Project Name: Job Scheduler
